@@ -35,4 +35,4 @@
 |이상민|류창훈|김희동|최지윤|
 |:---:|:---:|:---:|:---:|
 |<a href="https://github.com/SangMin4973"><img src="https://avatars.githubusercontent.com/SangMin4973" width="250"></a>|<a href="https://github.com/Ryuchanghoon"><img src="https://avatars.githubusercontent.com/Ryuchanghoon" width="250"></a>|<a href="https://github.com/Kim-Hui-Dong"><img src="https://avatars.githubusercontent.com/Kim-Hui-Dong" width="250"></a>|<a href="https://github.com/Choijiyun0902"><img src="https://avatars.githubusercontent.com/Choijiyun0902" width="250">|
-|VLM|Detection|Back|Front|
+|VLM|Detection|Design|Front|
